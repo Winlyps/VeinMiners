@@ -3,3 +3,5 @@ version: '1.0.0'
 main: winlyps.veinMiners.VeinMiners
 api-version: '1.20'
 authors: [ Winlyps ]
+description: A plugin that allows players to mine entire veins of ore at once
+
